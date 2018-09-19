@@ -1,0 +1,26 @@
+﻿  ActiuneUndo.cpp
+  Activitate.cpp
+  Cos.cpp
+  Current.cpp
+  Exception.cpp
+  Export.cpp
+  Forme.cpp
+  GUI.cpp
+c:\users\ptido\source\repos\lab10-11\lab10-11\current.cpp(30): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  List_view.cpp
+  main.cpp
+  Repository.cpp
+  Service.cpp
+  Tests.cpp
+  UI.cpp
+  UndoAdauga.cpp
+  UndoDelete.cpp
+  UndoUpdate.cpp
+  moc_Cos.cpp
+  moc_GUI.cpp
+  moc_List_view.cpp
+  Lab10-11.vcxproj -> C:\Users\ptido\source\repos\Lab10-11\x64\Debug\Lab10-11.exe
